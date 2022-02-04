@@ -1,0 +1,7 @@
+- Please keep the ItemFile.txt file in the same folder as the executable jar file
+- When running the program, firstly click on "Generate ItemAds to Users" button
+- Click on "Set the number of Custom users" to initialise user platform
+- Then you can either Add/remove an Items, or link/unlink two or more Items
+- Next you can view the details of an Item by clicking on the "View Item Insight" button
+- View Items with the different users and then "Evaluate Agent Reward" to show stats 
+- Remove a user or create a new Item if needed
